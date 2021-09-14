@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-require_relative '../lib/ruby_intro.rb'
+# require_relative '../lib/ruby_intro.rb'
+require_relative '../lib/Rathore_Dushyant_HW1.rb'
 
 describe 'BookInStock' do
   it 'should be defined' do
